@@ -1,5 +1,14 @@
-<?php
-// ceci est un comentaitre
-$toto = "ceci est une chaine dénil";
+<html>
+    <head>
 
-echo $toto;
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.php?pahe=home">Home</a></li>
+                <li><a href="index.php?pahe=registration">inscription</a></li>
+                <li><a href="index.php?pahe=login">Connexion</a></li>
+            </ul>
+        </nav>
+    </body>
+</html>
